@@ -7,3 +7,5 @@ purchase_redeem/
 .ipynb_checkpoints/
 MarTech-Challenge-data/
 data/
+credit_default/
+credit_fraud/
