@@ -9,3 +9,7 @@ MarTech-Challenge-data/
 data/
 credit_default/
 credit_fraud/
+
+data_format1
+data_format2
+prediction_all_xgb.csv
